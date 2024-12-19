@@ -3,7 +3,7 @@
 int main()
 try
 {
-    std::cout << "Привет!\n";
+    std::cout << "Приvetт!\n";
     return 0;
 }
 catch(...)
